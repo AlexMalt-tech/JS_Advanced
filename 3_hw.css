@@ -1,0 +1,11 @@
+.item_box {
+    max-width: 840px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.product-item {
+    padding: 4px;
+}
