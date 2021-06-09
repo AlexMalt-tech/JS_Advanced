@@ -1,0 +1,11 @@
+{ id: a001 name: Куртка price: 450 size: L img: ./search_img/ hat_1 .jpeg },
+{ id: a002 name: Куртка price: 525 size: XL img: ./search_img/ hoodie_red .jpeg },
+{ id: a003 name: Толстовка price: 125 size: S img: ./search_img/ jacket_1 .jpeg },
+{ id: a004 name: Джинсы price: 200 size: M img: ./search_img/ jacket_2 .jpeg },
+{ id: a005 name: Джинсы price: 175 size: XXL img: ./search_img/ jeans_1 .jpeg },
+{ id: a006 name: Кеды price: 160 size: L img: ./search_img/ jeans_2 .jpeg },
+{ id: a007 name: Кеды price: 185 size: XL img: ./search_img/ sneakers_1 .jpeg },
+{ id: a008 name: Футболка price: 75 size: S img: ./search_img/ sneakers_2 .jpeg },
+{ id: a009 name: Футболка price: 63 size: M img: ./search_img/ t-shirt .jpeg },
+{ id: a010 name: Ушанка price: 1500 size: XXL img: ./search_img/ t-shirt_2 .jpeg },
+
